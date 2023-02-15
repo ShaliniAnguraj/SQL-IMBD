@@ -148,3 +148,6 @@ VALUES
 (' lover',2,2);
 
 SELECT * FROM ROLES
+
+
+--online compiler linke ("https://onecompiler.com/mysql/3yxy9zbcd")
